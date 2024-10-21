@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img-wrapper{
+    width: 350px;
+}
+img {
+    width: 100%;
+}
+footer {
+    font-size: 10px;
+}
+h1 {
+    font-size:1.5em;
+}
+h2 {
+    font-weight: 400;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+th,td {
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #494646;
+}
+th{ 
+    background-color: #7878f4;
+}
